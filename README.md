@@ -1,4 +1,8 @@
-<img src="./assets/banner.png" />
+<div align="center">
+  <a href="https://guval-gh.github.io/">
+    <img src="./assets/banner.png" width="1200px" />
+  </a>
+</div>
 
 <br/>
 
@@ -20,18 +24,29 @@
   </a>
 </div>
 
+<br/>
+
 <h3 style="font-size: 20px; font-weight: bold">Hello 👋 Je m'appelle Guillaume D. et je suis Senior / Lead Développeur Mobile</h3>
 
 - 📍 Basé à Nantes (France)
 - 💻 11+ années d'expérience en dévelopement Front (dont 5 en fullstack)
 - 📱 6+ années d'expérience en dévelopement Mobile
-- 🚀 Plus d'infos sur le <a href="https://guval-gh.github.io/">Portfolio</a> (🚧🚧 En cours de refonte ! 🚧🚧)
+- 🚀 Plus d'infos sur le <a href="https://guval-gh.github.io/">Portfolio</a>
 - 👨🏻‍💻 J'ai notamment travaillé sur les apps mobile
   - <img src="./assets/hustleup-favicon.png" height="15" align="absmiddle" /> HustleUp - Fitness/Crossfit
   - <img src="./assets/dougs-favicon.png" height="15" align="absmiddle" /> Dougs - Expert comptable en ligne
   - <img src="./assets/nickel-favicon.png" height="15" align="absmiddle" /> Nickel / <img src="./assets/bnp-favicon.png" height="15" align="absmiddle" /> BNP Paribas - Néo banque
 
-<br/>
+<h3 style="font-size: 20px; font-weight: bold">Compétences</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="./assets/skills-soft.png" width="250" alt="Soft Skills" /></td>
+    <td align="center"><img src="./assets/skills-methodological.png" width="250" alt="Méthodologiques" /></td>
+    <td align="center"><img src="./assets/skills-hard.png" width="250" alt="Hard Skills" /></td>
+    <td align="center"><img src="./assets/skills-personal.png" width="250" alt="Personnelles" /></td>
+  </tr>
+</table>
 
 <h3 style="font-size: 22px; font-weight: bold">Stack Tech</h3>
 
@@ -119,8 +134,6 @@ Package Manager<br/>
 Doc<br/>
 <img alt="documentations-techniques" src="https://img.shields.io/badge/Documentation technique-007DBA.svg?&style=for-the-badge" />
 <img alt="knowledge-base" src="https://img.shields.io/badge/Knowledge base-007DBA.svg?&style=for-the-badge" />
-
-<br/>
 
 <h3 style="font-size: 22px; font-weight: bold">Autres</h3>
 
