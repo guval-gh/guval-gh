@@ -18,21 +18,17 @@
   <a href="https://www.linkedin.com/in/guval/">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge" />
   </a>
-  &nbsp;
-  <a href="https://gitlab.com/guval">
-    <img alt="gitlab" src="https://img.shields.io/badge/Gitlab-gray.svg?&style=for-the-badge&logo=gitlab&logoColor=#FFFFFF" />
-  </a>
 </div>
 
 <br/>
 
-<h3 style="font-size: 20px; font-weight: bold">Hello 👋 Je m'appelle Guillaume D. et je suis Senior / Lead Développeur Mobile</h3>
+<h3 style="font-size: 20px; font-weight: bold">Hello 👋 Je m'appelle Guillaume D. et je suis Lead / Senior Développeur Mobile</h3>
 
 - 📍 Basé à Nantes (France)
 - 💻 11+ années d'expérience en dévelopement Front (dont 5 en fullstack)
 - 📱 6+ années d'expérience en dévelopement Mobile
 - 🚀 Plus d'infos sur le <a href="https://guval-gh.github.io/">Portfolio</a>
-- 👨🏻‍💻 J'ai notamment travaillé sur les apps mobile
+- 👨🏻‍💻 J'ai notamment travaillé sur les apps mobile :
   - <img src="./assets/hustleup-favicon.png" height="15" align="absmiddle" /> HustleUp - Fitness/Crossfit
   - <img src="./assets/dougs-favicon.png" height="15" align="absmiddle" /> Dougs - Expert comptable en ligne
   - <img src="./assets/nickel-favicon.png" height="15" align="absmiddle" /> Nickel / <img src="./assets/bnp-favicon.png" height="15" align="absmiddle" /> BNP Paribas - Néo banque
