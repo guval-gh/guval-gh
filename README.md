@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://guval-gh.github.io/">
+  <a href="https://guillaume.guvalapps.com/">
     <img src="./assets/banner.png" width="1200px" />
   </a>
 </div>
@@ -11,7 +11,7 @@
     <img alt="github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=#181717" />
   </a>
   &nbsp;
-  <a href="https://guval-gh.github.io/">
+  <a href="https://guillaume.guvalapps.com/">
     <img alt="firefoxbrowser" src="https://img.shields.io/badge/Portfolio-252B36.svg?&style=for-the-badge" />
   </a>
   &nbsp;
@@ -25,9 +25,10 @@
 <h3 style="font-size: 20px; font-weight: bold">Hello 👋 Je m'appelle Guillaume D. et je suis Lead / Senior Développeur Mobile</h3>
 
 - 📍 Basé à Nantes (France)
-- 💻 11+ années d'expérience en dévelopement Front (dont 5 en fullstack)
-- 📱 6+ années d'expérience en dévelopement Mobile
-- 🚀 Plus d'infos sur le <a href="https://guval-gh.github.io/">Portfolio</a>
+- 💻 13+ années d'expérience en dévelopement, dont:
+  - 📱 6+ années d'expérience en dévelopement Mobile
+  - 🌐 7 années d'expérience en dévelopement Web (fullstack et front)
+- 🚀 Plus d'infos sur le <a href="https://guillaume.guvalapps.com/">Portfolio</a>
 - 👨🏻‍💻 J'ai notamment travaillé sur les apps mobile :
   - <img src="./assets/hustleup-favicon.png" height="15" align="absmiddle" /> HustleUp - Fitness/Crossfit
   - <img src="./assets/dougs-favicon.png" height="15" align="absmiddle" /> Dougs - Expert comptable en ligne
