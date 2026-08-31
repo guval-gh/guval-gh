@@ -29,10 +29,10 @@
   - 📱 6+ années d'expérience en dévelopement Mobile
   - 🌐 7 années d'expérience en dévelopement Web (fullstack et front)
 - 🚀 Plus d'infos sur le <a href="https://guillaume.guvalapps.com/">Portfolio</a>
-- 👨🏻‍💻 J'ai notamment travaillé sur les apps mobile :
-  - <img src="./assets/hustleup-favicon.png" height="15" align="absmiddle" /> HustleUp - Fitness/Crossfit
-  - <img src="./assets/dougs-favicon.png" height="15" align="absmiddle" /> Dougs - Expert comptable en ligne
-  - <img src="./assets/nickel-favicon.png" height="15" align="absmiddle" /> Nickel / <img src="./assets/bnp-favicon.png" height="15" align="absmiddle" /> BNP Paribas - Néo banque
+- 👨🏻‍💻 J'ai notamment contribué ou dirigé le développement des apps mobile:
+  - <img src="./assets/hustleup-favicon.png" height="15" align="absmiddle" /> Hustle Up [<a href="https://apps.apple.com/fr/app/hustle-up/id6450982235">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.healthtech.hustleup">Android</a>] - Fitness/Crossfit
+  - <img src="./assets/dougs-favicon.png" height="15" align="absmiddle" /> Dougs [<a href="https://apps.apple.com/fr/app/dougs/id1154867586">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.dougs.compta">Android</a>] - Expert comptable en ligne
+  - <img src="./assets/nickel-favicon.png" height="15" align="absmiddle" /> Nickel [<a href="https://apps.apple.com/fr/app/nickel-compte-pour-tous/id1119225763">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.fpe.comptenickel">Android</a>] / <img src="./assets/bnp-favicon.png" height="15" align="absmiddle" /> BNP Paribas - Néo banque
 
 <h3 style="font-size: 20px; font-weight: bold">Compétences</h3>
 
@@ -57,6 +57,8 @@ Technos / services (spé mobile)<br/>
 <img alt="appstore" src="https://img.shields.io/badge/app store-0D96F6.svg?&style=for-the-badge&logo=appstore&logoColor=FFFFFF" />
 &nbsp;
 <img alt="googleplay" src="https://img.shields.io/badge/google play-4285F4.svg?&style=for-the-badge&logo=googleplay" /><br/>
+BaaS<br/>
+<img alt="supabase" src="https://img.shields.io/badge/supabase-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=FFFFFF" /><br/>
 Langages<br/>
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />
 &nbsp;
