@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://guillaume.guvalapps.com/">
+  <a href="https://guillaume.guvalapps.com/fr/">
     <img src="./assets/banner.png" width="1200px" />
   </a>
 </div>
@@ -7,11 +7,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/guval-gh">
-    <img alt="github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=#181717" />
-  </a>
-  &nbsp;
-  <a href="https://guillaume.guvalapps.com/">
+  <a href="https://guillaume.guvalapps.com/fr/">
     <img alt="firefoxbrowser" src="https://img.shields.io/badge/Portfolio-252B36.svg?&style=for-the-badge" />
   </a>
   &nbsp;
@@ -28,7 +24,7 @@
 - 💻 13+ années d'expérience en dévelopement, dont:
   - 📱 6+ années d'expérience en dévelopement Mobile
   - 🌐 7 années d'expérience en dévelopement Web (fullstack et front)
-- 🚀 Plus d'infos sur le <a href="https://guillaume.guvalapps.com/">Portfolio</a>
+- 🚀 Plus d'infos sur le <a href="https://guillaume.guvalapps.com/fr/">Portfolio</a>
 - 👨🏻‍💻 J'ai notamment contribué ou dirigé le développement des apps mobile:
   - <img src="./assets/hustleup-favicon.png" height="15" align="absmiddle" /> Hustle Up [<a href="https://apps.apple.com/fr/app/hustle-up/id6450982235">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.healthtech.hustleup">Android</a>] - Fitness/Crossfit
   - <img src="./assets/dougs-favicon.png" height="15" align="absmiddle" /> Dougs [<a href="https://apps.apple.com/fr/app/dougs/id1154867586">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.dougs.compta">Android</a>] - Expert comptable en ligne
